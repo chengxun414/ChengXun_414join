@@ -10,3 +10,5 @@
 chengxun414/chengxun414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[Image text]!
+(http://github.com/chengxun414/ChengXun_414join/raw/master/screenshots/tupian.jpg)
